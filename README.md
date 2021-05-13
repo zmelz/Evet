@@ -1,2 +1,1 @@
-# Evet
-Have fun psychic-enigma
+# First Time
